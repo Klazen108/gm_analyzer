@@ -1,0 +1,1 @@
+don't actually use this, use the gm_project_analyzer script in the directory above. This is just a module for analyzing an already split project. Feel free to use this in your own stuff though!
